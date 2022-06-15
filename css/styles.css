@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(16, 17, 17);
+}
+h1{
+    color: rgb(117, 13, 253);
+    text-align: center;
+}
+h2{
+    color: blue;
+}
+div {
+    text-align: center;
+}
+p {
+    color: blue;
+}
+h3{
+    color: blanchedalmond;
+    font-family: fantasy;
+}
+ul{
+    color:blanchedalmond;
+    text-align: center;
+    font-family: cursive;
+}
+img {
+    border: 5px solid #555;
+    border-radius: 50%;
+}
